@@ -1,0 +1,13 @@
+================================================================================
+CHEQUE OCR PROCESSING SUMMARY
+Generated: 2026-02-25 23:13:20
+================================================================================
+
+Total files processed: 10
+Successfully processed: 0
+Failed: 10
+Success rate: 0.0%
+
+Output files:
+  - Payee names: ALL_PAYEE_NAMES_20260225_231320.csv
+  - Issuer names: ALL_ISSUER_NAMES_20260225_231320.csv

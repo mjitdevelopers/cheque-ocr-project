@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+*.csv
+cheque-images/
+*.tiff
+*.pth
+ocr_env/
+__pycache__/
+*.pyc
